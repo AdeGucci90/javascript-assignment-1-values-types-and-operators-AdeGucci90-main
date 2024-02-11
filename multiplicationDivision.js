@@ -25,14 +25,14 @@ function multiplication(i, j) {
 function division(i, j) {
     // Perform division
     var quotient = i / j;
-    // Round off to 2 decimal places
+    // Round off to 2 decimal places //
     quotient = Math.round(quotient * 100) / 100;
     return quotient;
 }
 
 // Example usage:
-var num1 = 10;
-var num2 = 3;
+var num1 = 12;
+var num2 = 8;
 var resultMultiplication = multiplication(num1, num2);
 var resultDivision = division(num1, num2);
 
