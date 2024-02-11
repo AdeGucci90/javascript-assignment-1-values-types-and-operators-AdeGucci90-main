@@ -30,7 +30,7 @@ function division(i, j) {
     return quotient;
 }
 
-// Example usage:
+// Example:
 var num1 = 12;
 var num2 = 8;
 var resultMultiplication = multiplication(num1, num2);
