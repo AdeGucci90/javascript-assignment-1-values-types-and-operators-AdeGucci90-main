@@ -43,3 +43,6 @@ console.log("Division:", resultDivision);
 
 // Do not modify code below this line.
 // --------------------------------
+module.exports = { multiplication,division };
+module.exports = { multiplication,division };
+module.exports = { multiplication,division };
