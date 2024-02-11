@@ -10,11 +10,11 @@
  * return false otherwise.
  */
 
-// Write your code here
-function trueOrFalse(m, n) {
-    // Calculate the sum of the numbers
-    var sum = m + n;
-    // Check if the sum is greater than 100
+// Write your code here 
+function trueOrFalse(x, y) {
+    // Calculate the sum of the numbers //
+    var sum = x + y;
+    // Check if the sum is greater than 100 //
     if (sum > 100) {
         return true;
     } else {
@@ -22,7 +22,7 @@ function trueOrFalse(m, n) {
     }
 }
 
-// Example usage:
+// Example //
 var number1 = 50;
 var number2 = 60;
 var result = trueOrFalse(number1, number2);
