@@ -15,7 +15,7 @@
 
 // Write your code here
 function celciusToFahrenheit(temperature) {
-    // Convert Celsius to Fahrenheit //
+    // Convert Celsius to Fahrenheit
     var fahrenheit = (temperature * 9/5) + 32;
     // Round off to 2 decimal places //
     fahrenheit = Math.round(fahrenheit * 100) / 100;
@@ -23,14 +23,14 @@ function celciusToFahrenheit(temperature) {
 }
 
 function fahrenheitToCelcius(temperature) {
-    // Convert Fahrenheit to Celsius //
+    // Convert Fahrenheit to Celsius
     var celsius = (temperature - 32) * 5/9;
-    // Round off to 2 decimal places //
+    // Round off to 2 decimal places
     celsius = Math.round(celsius * 100) / 100;
     return celsius;
 }
 
-// Example //
+// Example:
 var celsiusTemperature = 30;
 var fahrenheitTemperature = 86;
 var convertedToFahrenheit = celciusToFahrenheit(celsiusTemperature);
