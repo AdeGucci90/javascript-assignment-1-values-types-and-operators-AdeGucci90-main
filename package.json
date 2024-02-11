@@ -1,0 +1,28 @@
+{
+	"name": "template-values-types-and-operators",
+	"description": "JavaScript Assignment on Values, Types and Operators.",
+	"version": "1.0.0",
+	"main": "addByOne.js",
+	"directories": {
+		"test": "__tests__"
+	},
+	"scripts": {
+		"test": "jest"
+	},
+	"jest": {
+		"collectCoverage": true
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Azubi-Africa/template-values-types-and-operators.git"
+	},
+	"author": "FRONTEND_DEV_AZUBI",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Azubi-Africa/template-values-types-and-operators/issues"
+	},
+	"homepage": "https://github.com/Azubi-Africa/template-values-types-and-operators#readme",
+	"devDependencies": {
+		"jest": "^29.5.0"
+	}
+}

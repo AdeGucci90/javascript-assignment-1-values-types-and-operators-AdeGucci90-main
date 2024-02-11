@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Tests addByOne",
+      "setup": "npm install",
+      "run": "./tests.sh addByOne.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 5
+    },
+    {
+      "name": "Tests areaOfTriangle",
+      "setup": "npm install",
+      "run": "./tests.sh areaOfTriangle.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Tests celciusFahrenheit",
+      "setup": "npm install",
+      "run": "./tests.sh celciusFahrenheit.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Tests multiplicationDivision",
+      "setup": "npm install",
+      "run": "./tests.sh multiplicationDivision.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Tests trueOrFalse",
+      "setup": "npm install",
+      "run": "./tests.sh trueOrFalse.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 5
+    }
+  ]
+}
