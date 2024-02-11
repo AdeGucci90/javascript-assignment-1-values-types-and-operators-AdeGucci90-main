@@ -33,3 +33,4 @@ console.log("Is the sum greater than 100?", result);
 
 // Do not modify code below this line.
 // --------------------------------
+module.exports = { trueOrFalse };
