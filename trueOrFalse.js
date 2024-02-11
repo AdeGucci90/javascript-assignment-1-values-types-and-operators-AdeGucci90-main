@@ -23,8 +23,8 @@ function trueOrFalse(x, y) {
 }
 
 // Example //
-var number1 = 50;
-var number2 = 60;
+var number1 = 60;
+var number2 = 50;
 var result = trueOrFalse(number1, number2);
 console.log("Is the sum greater than 100?", result);
 
