@@ -12,7 +12,7 @@
 
 // Write your code here 
 function trueOrFalse(x, y) {
-    // Calculate the sum of the numbers //
+    // Calculate the sum of the numbers
     var sum = x + y;
     // Check if the sum is greater than 100 //
     if (sum > 100) {
@@ -22,7 +22,7 @@ function trueOrFalse(x, y) {
     }
 }
 
-// Example usage:
+// Example:
 var number1 = 50;
 var number2 = 60;
 var result = trueOrFalse(number1, number2);

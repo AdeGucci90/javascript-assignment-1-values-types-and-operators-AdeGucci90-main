@@ -25,7 +25,7 @@ function multiplication(i, j) {
 function division(i, j) {
     // Perform division
     var quotient = i / j;
-    // Round off to 2 decimal places //
+    // Round off to 2 decimal places 
     quotient = Math.round(quotient * 100) / 100;
     return quotient;
 }

@@ -9,12 +9,12 @@
 
 // Write your code here
 function addByOne(number) {
-    // Increment the value by one //
+    // Increment the value by one 
     var incrementedValue = number + 1;
     return incrementedValue;
 }
 
-// Example //
+// Example
 var number = 5;
 var result = addByOne(number);
 console.log("Incremented value:", result);

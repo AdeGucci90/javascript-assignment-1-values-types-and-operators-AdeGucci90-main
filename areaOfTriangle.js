@@ -13,16 +13,16 @@ function areaOfTriangle(a, b, c) {
     // Calculate the semi-perimeter
     var s = (a + b + c) / 2;
 
-    // Calculate the area of triangle using Heron's formula //
+    // Calculate the area of triangle using Heron's formula
     var area = Math.sqrt(s * (s - a) * (s - b) * (s - c));
 
-    // Round off the area to 2 decimal places //
+    // Round off the area to 2 decimal places 
     area = Math.round(area * 100) / 100;
 
     return area;
 }
 
-// Example //
+// Example:
 var side1 = 3;
 var side2 = 4;
 var side3 = 5;
