@@ -103,3 +103,4 @@ If you need help with any of the concepts covered in this assignment, here are s
 -   [JavaScript.info](https://javascript.info/)
 
 **_🍀Good luck!_**
+# javascript-assignment-1-values-types-and-operators
